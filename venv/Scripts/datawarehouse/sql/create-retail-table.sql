@@ -1,0 +1,1 @@
+sql="""CREATE TABLE retails ( TransactionID int, Date varchar(255), CustomerID varchar(255), ProductCategory varchar(255),Quantity int, PricePerUnit varchar(255),TotalAmount DOUBLE(8,2));"""
